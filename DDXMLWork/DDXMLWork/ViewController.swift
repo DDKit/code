@@ -76,7 +76,7 @@ class ViewController: UIViewController {
             }
         }
         
-        
+        // //*[@id="LC1"]
         
 //        if let doc = try? HTML(url: URL(string: "https://www.wenjiwu.com")!, encoding: .utf8) {
 //            for link in doc.xpath("/html/body/div[6]") {
