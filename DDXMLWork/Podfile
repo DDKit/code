@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+target 'DDXMLWork' do
+  use_frameworks!
+  pod 'Kanna'
+  pod 'Alamofire'  #网络请求
+  pod 'XMLDictionary'
+  pod 'SwiftyJSON'
+  pod 'Macaw'
+end

@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Kanna (4.0.2)
+  - Macaw (0.9.3):
+    - SWXMLHash
+  - SwiftyJSON (4.2.0)
+  - SWXMLHash (4.7.4)
+  - XMLDictionary (1.4.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kanna
+  - Macaw
+  - SwiftyJSON
+  - XMLDictionary
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kanna
+    - Macaw
+    - SwiftyJSON
+    - SWXMLHash
+    - XMLDictionary
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Kanna: c60b61d72554bf04ed1ee074f9b379855cab4892
+  Macaw: e370d81f465ea1daa8a72d2afa218000bcd24f0a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SWXMLHash: b35739a5cfd915c3b482977aa720d6708e260a90
+  XMLDictionary: fa07b6ff422b3a91d47a5de9bc82e3fc04fbd167
+
+PODFILE CHECKSUM: 3d8aed1c18720625888244fb7a92e4188cbd3eb5
+
+COCOAPODS: 1.5.3
